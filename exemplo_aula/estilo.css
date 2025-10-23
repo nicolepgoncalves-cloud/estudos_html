@@ -1,0 +1,16 @@
+h1{
+    background-color: aqua;
+}
+
+h2{
+    background-color: darkorange;
+}
+
+body{
+    background-image: url(https://sp.senai.br/images/senai.svg);
+    /* background-image serve para colocar imagem de fundo */
+     background-repeat: no-repeat;
+    background-position: right top;
+    /* background-position fez a imagem ir para direita para cima */
+    background-attachment: fixed;
+}
