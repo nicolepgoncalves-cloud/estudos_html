@@ -86,8 +86,9 @@ h4 {
     margin: 2px 0px;
 }
 
-#menuv ul li a{
+#menuv ul li a:hover{
     background-color: #b5d45d;
     color: #2d19e2;
+    /* bottom é embaixo porra! */
     border-bottom: 3px solid #EA0000;
 }
