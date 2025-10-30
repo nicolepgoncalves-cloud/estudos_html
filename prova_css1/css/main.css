@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h4{
+    font-size: 32px;
+    color: white;
+    background-color: rgb(80, 70, 70,);
+    border:  red 2px solid;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+}
